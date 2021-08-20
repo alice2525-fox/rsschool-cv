@@ -6,3 +6,19 @@ I’m Alice and I’m a linguist. I specialize in literature and can read, perce
 * HTML,CSS and Git 
 * Marldown 
 * JavaScript
+## Code examples
+* function count (string) {  
+  var count = {};
+  string.split('').forEach(function(s) {
+     count[s] ? count[s]++ : count[s] = 1;
+  });
+  return count;
+}
+* function squareDigits(num){
+  var array = num.toString().split('').map( function(int) {
+    var i = parseInt(int);
+    return i * i;
+  });
+  
+  return parseInt(array.join(""));
+}
