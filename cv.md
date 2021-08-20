@@ -27,3 +27,8 @@ I’m Alice and I’m a linguist. I specialize in literature and can read, perce
 * Confucious University 2014-2018 Chinese language course
 * TKT band 4 Teaching Knowledge Test
 * Cousera (HTML,CSS,Git)
+## Level of English
+* C1
+* Bachelors degree
+* Used to work with Americans
+* Talk in English every day with my students and friends
