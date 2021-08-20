@@ -22,3 +22,8 @@ I’m Alice and I’m a linguist. I specialize in literature and can read, perce
   
   return parseInt(array.join(""));
 }
+## Education
+* Minsk State Linguistic University 2013-2018 linguist, teacher of two foreign languages: English and Italian, specializing in English literature
+* Confucious University 2014-2018 Chinese language course
+* TKT band 4 Teaching Knowledge Test
+* Cousera (HTML,CSS,Git)
